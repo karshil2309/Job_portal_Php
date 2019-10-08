@@ -35,3 +35,12 @@ Now show users record in the admin section.
 
 
  
+# company
+
+can register 
+can log in
+forgot password
+crud post jobs{ make sure it deltes its own company}
+can change the status for open and close for job if finsished or open
+ edit the details
+logout
